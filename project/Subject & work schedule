@@ -2,19 +2,19 @@ This final project will be an app that allows the user to create, sort and chang
 
 Work schedule (in progress):
 
-	1. Creating basic REST API.
-	2. Data bases
-	3. Logs 
-	4. Microservers
-	5. running script 
-	6.
-	7.
-	8.
-	9.
+	1. Logowanie, autentykacja
+	2. UI
+	3. towrzenie własnych tabel z danymi - połączenie bazy danych 
+	4. wyszukiwanie po tytule i autorze z bazy książek
+	5. bloki rekomandecyjne
+	6. tworzenie listy "to read" z oceną pilności 
+	7. wyszukiwanie i obserwowanie innych użytkowników
+	8. logi 
+	9. 
 	10.
 	11.
 	12.
 	13.
-	14. UI
+	14. 
 	15. App README
 	16. Realizing the project.
