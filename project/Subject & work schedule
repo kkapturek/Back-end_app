@@ -1,20 +1,29 @@
-This final project will be an app that allows the user to create, sort and change a personal library tables including "to read", "read" and "in progress" areas, with all the usefull books info. 
+This final project will be an app that allows the user to create, sort and change a personal library tables.
 
 Work schedule (in progress):
 
-	1. Logowanie, autentykacja
-	2. UI
-	3. towrzenie własnych tabel z danymi - połączenie bazy danych 
-	4. wyszukiwanie po tytule i autorze z bazy książek
-	5. bloki rekomandecyjne
-	6. tworzenie listy "to read" z oceną pilności 
-	7. wyszukiwanie i obserwowanie innych użytkowników
-	8. logi 
-	9. 
-	10.
-	11.
-	12.
-	13.
-	14. 
-	15. App README
-	16. Realizing the project.
+	1. Logowanie, wylogowywanie, zmiana hasła, (przechowywanie tych danych np db) 
+	
+	2. !!!stworzyć własną!!!
+		o książkach: tytuł, autor, rok wydania, gatunek, ocena, recenzja  (jako suma zdobytych pkt(query z countem))
+			- wyswietanie detali ksiazki
+			- edytowanie ksiazki
+			
+		- listowanie książek: sortowanie po w.w. parametrach + paginacja 
+		- wyszukiwanie książek po w.w.
+	
+	3. tworzenie listy "to read" z oceną pilności 
+		- wylistowanie książek posortowane po pilności (z paginacją?) 
+		- edytowanie wpisów, dodawania nowych i usuwania 
+	
+
+	4. ocena książek - można zmieniać ocenę (gwizdki endpoiny /books/1/stars post)
+	   polecanie znajomym (email)
+
+
+	5. ręczne uruchamianie readme
+
+
+
+
+rest template  - komunikacja między mikroserwisami 
